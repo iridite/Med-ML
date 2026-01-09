@@ -11,3 +11,6 @@ wheels/
 
 # all data
 data/
+logs/
+log/
+models/
